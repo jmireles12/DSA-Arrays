@@ -16,4 +16,4 @@ function main() {
     console.log(arr);
 }
 
-console.log(main())
+main()
